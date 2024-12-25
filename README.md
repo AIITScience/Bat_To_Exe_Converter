@@ -4,3 +4,5 @@
 - exe to bat・・・可能ならexeをbatに書き直します。
 
 [ホームに戻る](https://aiitscience.github.io)
+
+⚠️このソフトは、[99fk](https://github.com/99fk)さんのソフトをパッケージ化したものです。
