@@ -1,4 +1,4 @@
-[![Static Badge](https://img.shields.io/badge/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-green)](https://github.com/AIITScience/Bat_To_Exe_Converter/releases/download/v3.2-1/Bat_To_Exe_Converter_Setup.exe)
+[![Static Badge](https://img.shields.io/badge/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-green)](https://github.com/AIITScience/Bat_To_Exe_Converter/releases/download/v3.2-2/Bat_To_Exe_Converter_Setup.exe)
 ## 機能
 - Batの入力
 - bat to exe・・・batをexeに書き換えます。便利な詳細機能付き！
