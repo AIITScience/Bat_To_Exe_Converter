@@ -12,4 +12,4 @@ Bat_To_Exe_Converter /bat (batname) /exe (exename)
 
 [![Static Badge](https://img.shields.io/badge/%E3%83%9B%E3%83%BC%E3%83%A0%E3%81%AB%E6%88%BB%E3%82%8B-blue)](https://aiitscience.github.io)
 
-⚠️このソフトは、[99fk](https://github.com/99fk)さんのソフトをパッケージ化したものですが、既に存在しないので[ライセンス](https://github.com/AIITScience/Bat_To_Exe_Converter/blob/main/LICENSE.md)は独自に生成しています。
+⚠️このソフトは、[99fk](https://github.com/99fk)さんのソフトをパッケージ化したものですが、既に存在しないので[ライセンス](https://github.com/AIITScience/Bat_To_Exe_Converter/blob/main/LICENSE)は独自に生成しています。
